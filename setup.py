@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='gray_py_gelf',
-     version='1.0.0',
+     version='1.2.0',
      author="Rafael Francisco Viana Sanches",
      author_email="rafaelsanches123@gmail.com",
      description="This project aims to simplify log shipping to your graylog server quite simply",
